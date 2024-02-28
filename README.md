@@ -16,7 +16,7 @@ I'm an Electronic Engineer with a postgraduate specialization in Artificial Inte
 
 - 📫 Feel free to reach me out **brunotorresteles@gmail.com**
 
-- 📄 My CV can be found [here]()
+- 📄 My CV can be found [here](https://github.com/brunoctt/brunoctt/blob/main/CV_BrunoCTATeles.pdf)
 <!--Intro end-->
 
 
