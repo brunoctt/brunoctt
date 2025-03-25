@@ -8,11 +8,11 @@
 I'm an Electronic Engineer with a postgraduate specialization in Artificial Intelligence and Robotics. Python is the programming language I'm most familiar with, having professional experience as a back-end developer.
 
 <!--Intro start-->
-- 🔭 I’m currently working as a Developer/Researcher at [Residência em Robótica e Inteligência Artificial - Projeto CIn-Softex](https://br.linkedin.com/company/projeto-cin-softex)
+- 🔭 I’m currently working as a Data Engineer at [Hand Talk](https://www.linkedin.com/company/hand-talk/posts/?feedView=all)
 
-- ☁️ I've keen interest in back-end devolopment, python, Deep Learning and Data Science
+- ☁️ I've keen interest in Data Engineering, python, Deep Learning and back-end devolopment
 
-- 🌱 I’m currently learning practical applications of Deep Learning and improving my skills at back-end devolopment
+- 🌱 I’m currently learning practical applications of Data Engineering and improving my skills at the area
 
 - 📫 Feel free to reach me out **brunotorresteles@gmail.com**
 
